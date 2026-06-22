@@ -66,8 +66,6 @@ Blank rows from both source tables were removed before further transformations.
 
 ### Power Query Applied Steps
 
-Insert your Power Query Applied Steps screenshot below.
-
 ![Power Query Applied Steps](Power%20Query%20Cleaning%20by%20VC_DataLab.png)
 
 ---
@@ -688,10 +686,7 @@ The following slicers were added to improve interactivity:
 
 ### Dashboard Screenshot
 
-Replace the image path below with your actual Dashboard 1 screenshot.
-
 ```markdown
-![Sales Performance Dashboard](Dashboard%20Screenshots/Dashboard1.png)
 ```
 
 ![Order lifecycle and Revenue Leakage Audit Dashboard](Order%20lifecycle-Revenue%20Leakage-Audit.png)
@@ -719,10 +714,7 @@ Replace the image path below with your actual Dashboard 1 screenshot.
 
 ### Dashboard Screenshot
 
-Replace the image path below with your actual Dashboard 2 screenshot.
-
 ```markdown
-![Operations Dashboard](Dashboard%20Screenshots/Dashboard2.png)
 ```
 
 ![Fulfillment Rate, Margin, and Discount Impact Review](Fulfillment%20Rate-Margin-Discount%20Impact%20Review.png)
@@ -748,10 +740,7 @@ Replace the image path below with your actual Dashboard 2 screenshot.
 
 ### Dashboard Screenshot
 
-Replace the image path below with your Executive Insights page screenshot.
-
 ```markdown
-![Executive Insights Dashboard](Dashboard%20Screenshots/ExecutiveInsights.png)
 ```
 
 ![Intelligent Insight and Recommendation](Intelligent%20Insight%20and%20Recommendation.png)
