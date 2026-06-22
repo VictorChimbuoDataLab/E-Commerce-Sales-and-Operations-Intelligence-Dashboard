@@ -68,7 +68,7 @@ Blank rows from both source tables were removed before further transformations.
 
 Insert your Power Query Applied Steps screenshot below.
 
-![Power Query Applied Steps](Power%20Query%20Documentation/Power%20Query%20Applied%20Steps.png)
+![Power Query Applied Steps](Power%20Query%20Cleaning%20by%20VC_DataLab.png)
 
 ---
 
@@ -684,7 +684,7 @@ The following slicers were added to improve interactivity:
 
 ---
 
-# 📊 Dashboard 1 — Sales Performance Analysis
+# 📊 Dashboard 1 — Order lifecycle and Revenue Leakage Audit
 
 ### Dashboard Screenshot
 
@@ -694,7 +694,7 @@ Replace the image path below with your actual Dashboard 1 screenshot.
 ![Sales Performance Dashboard](Dashboard%20Screenshots/Dashboard1.png)
 ```
 
-![Sales Performance Dashboard](Dashboard%20Screenshots/Dashboard1.png)
+![Order lifecycle and Revenue Leakage Audit Dashboard](Order%20lifecycle-Revenue%20Leakage-Audit.png)
 
 ### Visualizations Included
 
@@ -725,7 +725,7 @@ Replace the image path below with your actual Dashboard 2 screenshot.
 ![Operations Dashboard](Dashboard%20Screenshots/Dashboard2.png)
 ```
 
-![Operations Dashboard](Dashboard%20Screenshots/Dashboard2.png)
+![Fulfillment Rate, Margin, and Discount Impact Review](Fulfillment%20Rate-Margin-Discount%20Impact%20Review.png)
 
 ### Visualizations Included
 
@@ -754,7 +754,7 @@ Replace the image path below with your Executive Insights page screenshot.
 ![Executive Insights Dashboard](Dashboard%20Screenshots/ExecutiveInsights.png)
 ```
 
-![Executive Insights Dashboard](Dashboard%20Screenshots/ExecutiveInsights.png)
+![Intelligent Insight and Recommendation](Intelligent%20Insight%20and%20Recommendation.png)
 
 This dashboard page was created specifically for management reporting and strategic decision-making.
 
