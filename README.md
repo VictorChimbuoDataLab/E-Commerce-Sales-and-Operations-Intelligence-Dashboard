@@ -874,7 +874,7 @@ The dashboard equips decision-makers with the information required to improve op
 
 ## 👨‍💻 Author
 
-**Victor Chimbuo**
+**I. Victor Chimbuo [VC_dataLab]**
 
 Data Analytics | Power BI | Power Query | DAX | Business Intelligence
 
