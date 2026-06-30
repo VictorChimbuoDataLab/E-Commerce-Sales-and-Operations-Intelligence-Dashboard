@@ -717,7 +717,8 @@ The following slicers were added to improve interactivity:
 ```markdown
 ```
 
-![Fulfillment Rate, Margin, and Discount Impact Review](Fulfillment%20Rate-Margin-Discount%20Impact%20Review.png)
+![Fulfillment Rate, Margin, and Discount Impact Review](Fulfillment%20Rate-Margin-Discount%20Impact-%20Review.png) 
+![Profitability Insight Review](Profitability%20Insight.png) 
 
 ### Visualizations Included
 
