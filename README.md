@@ -710,12 +710,7 @@ The following slicers were added to improve interactivity:
 
 ---
 
-# 🚚 Dashboard 2 — Operations & Fulfillment Analysis
-
-### Dashboard Screenshot
-
-```markdown
-```
+# 🚚 Dashboards 2 — Operations, Fulfillment & Profitability Analysis
 
 ![Fulfillment Rate, Margin, and Discount Impact Review](Fulfillment%20Rate-Margin-Discount%20Impact-%20Review.png) 
 ![Profitability Insight Review](Profitability%20Insight.png) 
@@ -738,11 +733,6 @@ The following slicers were added to improve interactivity:
 ---
 
 # 🧠 Executive Insights & Recommendations
-
-### Dashboard Screenshot
-
-```markdown
-```
 
 ![Intelligent Insight and Recommendation](Intelligent%20Insight%20and%20Recommendation.png)
 
