@@ -684,11 +684,6 @@ The following slicers were added to improve interactivity:
 
 # 📊 Dashboard 1 — Order lifecycle and Revenue Leakage Audit
 
-### Dashboard Screenshot
-
-```markdown
-```
-
 ![Order lifecycle and Revenue Leakage Audit Dashboard](Order%20lifecycle-Revenue%20Leakage-Audit.png)
 
 ### Visualizations Included
